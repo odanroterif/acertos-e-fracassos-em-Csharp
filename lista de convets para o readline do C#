@@ -1,0 +1,14 @@
+Convert.ToBoolean: Converte um valor para o tipo booleano.
+Convert.ToByte: Converte um valor para o tipo byte.
+Convert.ToChar: Converte um valor para o tipo char.
+Convert.ToDateTime: Converte um valor para o tipo DateTime.
+Convert.ToDecimal: Converte um valor para o tipo decimal.
+Convert.ToDouble: Converte um valor para o tipo double.
+Convert.ToInt16: Converte um valor para o tipo int16.
+Convert.ToInt32: Converte um valor para o tipo int32.
+Convert.ToInt64: Converte um valor para o tipo int64.
+Convert.ToSByte: Converte um valor para o tipo sbyte.
+Convert.ToSingle: Converte um valor para o tipo float.
+Convert.ToUInt16: Converte um valor para o tipo uint16.
+Convert.ToUInt32: Converte um valor para o tipo uint32.
+Convert.ToUInt64: Converte um valor para o tipo uint64.
