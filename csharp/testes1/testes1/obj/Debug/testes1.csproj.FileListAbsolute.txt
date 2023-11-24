@@ -1,7 +1,0 @@
-C:\csharp\testes1\testes1\bin\Debug\testes1.exe.config
-C:\csharp\testes1\testes1\bin\Debug\testes1.exe
-C:\csharp\testes1\testes1\bin\Debug\testes1.pdb
-C:\csharp\testes1\testes1\obj\Debug\testes1.csproj.AssemblyReference.cache
-C:\csharp\testes1\testes1\obj\Debug\testes1.csproj.CoreCompileInputs.cache
-C:\csharp\testes1\testes1\obj\Debug\testes1.exe
-C:\csharp\testes1\testes1\obj\Debug\testes1.pdb
