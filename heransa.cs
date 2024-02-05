@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace herança
 {
@@ -25,20 +21,44 @@ namespace herança
     }
     public class car : status
     {
-        public void rotation()
+        public void text(bool a)
         {
-
-        }    
-        
+            if (a == false)
+            {
+                Console.WriteLine("carro desligado");
+            }
+            else
+            {
+                Console.WriteLine("carro ligado");
+            }
+        }
     }
-    class Program
+    internal class Program
     {
         static void Main(string[] args)
         {
             car CAR = new car();
+            string direction;
+            bool q;
 
-            Console.WriteLine(CAR.off());
-            Console.ReadLine();
+        Start:
+            Console.Write("direção: ");
+            direction = Console.ReadLine();
+            if (direction == "esquerda" || direction == "Esquerda")
+            {
+                q = CAR.off();
+                CAR.text(q);
+            }
+            else if (direction == "direita" || direction == "Direita")
+            {
+                q = CAR.on();
+                CAR.text(q);
+            }
+            else
+            {
+                goto Start;
+            }
+            Console.ReadKey();
         }
     }
 }
