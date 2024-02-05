@@ -1,4 +1,5 @@
 ﻿using System;
+using binaryseach;
 
 namespace herança
 {
@@ -38,6 +39,7 @@ namespace herança
         static void Main(string[] args)
         {
             car CAR = new car();
+            Saida e = new Saida();
             string direction;
             bool q;
 
@@ -58,7 +60,7 @@ namespace herança
             {
                 goto Start;
             }
-            Console.ReadKey();
+            e.exit();
         }
     }
 }
