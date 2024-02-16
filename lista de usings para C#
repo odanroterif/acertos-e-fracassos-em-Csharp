@@ -14,3 +14,4 @@
 //System.ServiceModel: Contém tipos relacionados ao WCF (Windows Communication Foundation), como ChannelFactory<TChannel> e ServiceHost<TService>.
 //System.Web: Contém tipos relacionados às bibliotecas da Web, como HttpRequest, HttpResponse e HttpHandler.
 //System.Web.UI.WebControls: Contém classes para criação de controles de interface do usuário em ASP.NET, como Button, TextBox e GridView.
+//using MySql.Data.MySqlClient
