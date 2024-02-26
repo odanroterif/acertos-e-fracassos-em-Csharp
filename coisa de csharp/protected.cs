@@ -96,7 +96,7 @@ namespace @protected
             Console.WriteLine("2- ALDEÃO");
             Console.WriteLine("3- AFOGADO");
             Console.Write("\n\nescolha: ");
-            short task = short.Parse(Console.ReadLine());
+            byte task = byte.Parse(Console.ReadLine());
             Console.Clear();
             switch (task)
             {
