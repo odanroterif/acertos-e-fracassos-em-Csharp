@@ -1,16 +1,16 @@
-﻿using binaryseach;
+using binaryseach;
 using System;
 
 namespace herança_2
 {
     public class Mob
     {
-        private int life;
+        protected int life;
         private bool agressive;
 
-        public void passive(int a, ref string mobname)
+        public void passive(int life, int a, ref string mobname)
         {
-            life = 8;
+            this.life = life;
             agressive = false;
 
             if (life - a < life)
@@ -30,9 +30,9 @@ namespace herança_2
             }
 
         }
-        public void neutral(int a, ref string mobname)
+        public void neutral(int life, int a, ref string mobname)
         {
-            life = 20;
+            this.life = life;
             agressive = false;
 
             if (life - a < life)
@@ -49,9 +49,9 @@ namespace herança_2
                 Console.WriteLine(mobname + " esta olhando para você");
             }
         }
-        public void hostile(int a, ref string mobname)
+        public void hostile(int life, int a, ref string mobname)
         {
-            life = 10;
+            this.life = life;
             agressive = true;
             if (life - a < life)
             {
@@ -69,39 +69,51 @@ namespace herança_2
     {
         private string creature_name = "Vaca";
 
+        public cow()
+        {
+            life = 8;
+        }
         public string name()
         {
             return creature_name;
         }
         public void think(int a)
         {
-            base.passive(a, ref creature_name);
+            base.passive(life, a, ref creature_name);
         }
     }
     public class enderman : Mob
     {
         private string creature_name = "enderman";
 
+        public enderman()
+        {
+            life = 18;
+        }
         public string name()
         {
             return creature_name;
         }
         public void think(int a)
         {
-            base.neutral(a, ref creature_name);
+            base.neutral(life, a, ref creature_name);
         }
     }
     public class zombi : Mob
     {
         private string creature_name = "zumbi";
 
+        public zombi()
+        {
+            life = 10;
+        }
         public string name()
         {
             return creature_name;
         }
         public void think(int a)
         {
-            base.hostile(a, ref creature_name);
+            base.hostile(life, a, ref creature_name);
         }
     }
 
@@ -109,6 +121,10 @@ namespace herança_2
     {
         private string creature_name = "golem de ferro";
 
+        public iron_golem()
+        {
+            life = 30;
+        }
         public string name()
         {
             return creature_name;
@@ -118,11 +134,11 @@ namespace herança_2
         {
             if (b == true)
             {
-                base.passive(a, ref creature_name);
+                base.passive(life, a, ref creature_name);
             }
             else
             {
-                base.neutral(a, ref creature_name);
+                base.neutral(life, a, ref creature_name);
             }
         }
     }
@@ -147,7 +163,7 @@ namespace herança_2
             bool creation;
 
         Start:
-            Console.WriteLine("---INTERAÇÃO COM MOBS---");
+            Console.WriteLine("----INTERAÇÃO COM MOBS----");
             Console.WriteLine(creature1.name());
             Console.WriteLine(creature2.name());
             Console.WriteLine(creature3.name());
@@ -155,91 +171,88 @@ namespace herança_2
             Console.Write("\n\nescolha um para realizar interação: ");
             string resward = Console.ReadLine().ToLower();
             Console.Clear();
-            if (resward == "vaca")
+            switch (resward)
             {
-                do
-                {
-                    Console.WriteLine("quer bater nesse mob?\n");
-                    resward = Console.ReadLine().ToLower();
-                    Console.Clear();
-                } while (resward != "sim" && resward != "não");
-                if (resward == "sim")
-                {
-                    creature1.think(wood_sword.damage());
-                }
-                else
-                {
-                    creature1.think(0);
-                }
-            }
-            else if (resward == "enderman")
-            {
-                do
-                {
-                    Console.WriteLine("quer bater nesse mob?\n");
-                    resward = Console.ReadLine().ToLower();
-                    Console.Clear();
-                } while (resward != "sim" && resward != "não");
-                if (resward == "sim")
-                {
-                    creature2.think(wood_sword.damage());
-                }
-                else
-                {
-                    creature2.think(0);
-                }
-            }
-            else if (resward == "zumbi")
-            {
-                do
-                {
-                    Console.WriteLine("quer bater nesse mob?\n");
-                    resward = Console.ReadLine().ToLower();
-                    Console.Clear();
-                } while (resward != "sim" && resward != "não");
-                if (resward == "sim")
-                {
-                    creature3.think(wood_sword.damage());
-                }
-                else
-                {
-                    creature3.think(0);
-                }
-            }
-            else if (resward == "golem de ferro")
-            {
-                do
-                {
-                    Console.WriteLine("Esse golem foi criado pelo jogador?\n");
-                    resward = Console.ReadLine().ToLower();
+                case "vaca":
+                    do
+                    {
+                        Console.WriteLine("quer bater nesse mob?\n");
+                        resward = Console.ReadLine().ToLower();
+                        Console.Clear();
+                    } while (resward != "sim" && resward != "não");
                     if (resward == "sim")
                     {
-                        creation = true;
+                        creature1.think(wood_sword.damage());
                     }
                     else
                     {
-                        creation = false;
+                        creature1.think(0);
                     }
-                    Console.Clear();
-                } while (resward != "sim" && resward != "não");
-                do
-                {
-                    Console.WriteLine("quer bater nesse mob?\n");
-                    resward = Console.ReadLine().ToLower();
-                    Console.Clear();
-                } while (resward != "sim" && resward != "não");
-                if (resward == "sim")
-                {
-                    creature4.think(wood_sword.damage(), creation);
-                }
-                else
-                {
-                    creature4.think(0, creation);
-                }
-            }
-            else
-            {
-                goto Start;
+                    break;
+                case "enderman":
+                    do
+                    {
+                        Console.WriteLine("quer bater nesse mob?\n");
+                        resward = Console.ReadLine().ToLower();
+                        Console.Clear();
+                    } while (resward != "sim" && resward != "não");
+                    if (resward == "sim")
+                    {
+                        creature2.think(wood_sword.damage());
+                    }
+                    else
+                    {
+                        creature2.think(0);
+                    }
+                    break;
+                case "zumbi":
+                    do
+                    {
+                        Console.WriteLine("quer bater nesse mob?\n");
+                        resward = Console.ReadLine().ToLower();
+                        Console.Clear();
+                    } while (resward != "sim" && resward != "não");
+                    if (resward == "sim")
+                    {
+                        creature3.think(wood_sword.damage());
+                    }
+                    else
+                    {
+                        creature3.think(0);
+                    }
+                    break;
+                case "golem de ferro":
+                    do
+                    {
+                        Console.WriteLine("Esse golem foi criado pelo jogador?\n");
+                        resward = Console.ReadLine().ToLower();
+                        if (resward == "sim")
+                        {
+                            creation = true;
+                        }
+                        else
+                        {
+                            creation = false;
+                        }
+                        Console.Clear();
+                    } while (resward != "sim" && resward != "não");
+                    do
+                    {
+                        Console.WriteLine("quer bater nesse mob?\n");
+                        resward = Console.ReadLine().ToLower();
+                        Console.Clear();
+                    } while (resward != "sim" && resward != "não");
+                    if (resward == "sim")
+                    {
+                        creature4.think(wood_sword.damage(), creation);
+                    }
+                    else
+                    {
+                        creature4.think(0, creation);
+                    }
+                    break;
+                default:
+                    goto Start;
             }
             e.exit();
         }
