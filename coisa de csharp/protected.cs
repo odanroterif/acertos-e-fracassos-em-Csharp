@@ -1,4 +1,4 @@
-﻿using binaryseach;
+﻿sing binaryseach;
 using System;
 
 namespace @protected
@@ -63,6 +63,23 @@ namespace @protected
         }
 
     }
+    public class drowned : Mob
+    {
+
+        public drowned() : base()
+        {
+            mob_name = "afogado";
+            life = 12;
+        }
+
+        public void impress()
+        {
+            Console.WriteLine("\n\nMob: " + mob_name);
+            Console.WriteLine("vida: " + life);
+            Console.WriteLine("morto-vivo?: " + undead_condition(true));
+        }
+
+    }
     internal class Program
     {
         static void Main(string[] args)
@@ -70,11 +87,31 @@ namespace @protected
             Saida e = new Saida();
             zombie creature1 = new zombie();
             villager creature2 = new villager();
+            drowned creature3 = new drowned();
 
-            //console.WriteLine(creature1.life) <-- isso não é possivel pois life esta protegido e só
-            //pode ser usado nas classes que o herdaram
-            creature1.impress();
-            creature2.impress();
+        //console.WriteLine(creature1.life) <-- isso não é possivel pois life esta protegido e só
+        //pode ser usado nas classes que o herdaram
+        Start:
+            Console.WriteLine("1- ZUMBI");
+            Console.WriteLine("2- ALDEÃO");
+            Console.WriteLine("3- AFOGADO");
+            Console.Write("\n\nescolha: ");
+            short task = short.Parse(Console.ReadLine());
+            Console.Clear();
+            switch (task)
+            {
+                case 1:
+                    creature1.impress();
+                    break;
+                case 2:
+                    creature2.impress();
+                    break;
+                case 3:
+                    creature3.impress();
+                    break;
+                default:
+                    goto Start;
+            }
             e.exit();
         }
     }
