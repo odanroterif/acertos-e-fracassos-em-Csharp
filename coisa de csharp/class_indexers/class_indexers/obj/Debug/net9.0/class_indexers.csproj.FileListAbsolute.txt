@@ -1,0 +1,14 @@
+/home/joker/Documentos/códigos/estudos csharp/class_indexers/class_indexers/bin/Debug/net9.0/class_indexers
+/home/joker/Documentos/códigos/estudos csharp/class_indexers/class_indexers/bin/Debug/net9.0/class_indexers.deps.json
+/home/joker/Documentos/códigos/estudos csharp/class_indexers/class_indexers/bin/Debug/net9.0/class_indexers.runtimeconfig.json
+/home/joker/Documentos/códigos/estudos csharp/class_indexers/class_indexers/bin/Debug/net9.0/class_indexers.dll
+/home/joker/Documentos/códigos/estudos csharp/class_indexers/class_indexers/bin/Debug/net9.0/class_indexers.pdb
+/home/joker/Documentos/códigos/estudos csharp/class_indexers/class_indexers/obj/Debug/net9.0/class_indexers.GeneratedMSBuildEditorConfig.editorconfig
+/home/joker/Documentos/códigos/estudos csharp/class_indexers/class_indexers/obj/Debug/net9.0/class_indexers.AssemblyInfoInputs.cache
+/home/joker/Documentos/códigos/estudos csharp/class_indexers/class_indexers/obj/Debug/net9.0/class_indexers.AssemblyInfo.cs
+/home/joker/Documentos/códigos/estudos csharp/class_indexers/class_indexers/obj/Debug/net9.0/class_indexers.csproj.CoreCompileInputs.cache
+/home/joker/Documentos/códigos/estudos csharp/class_indexers/class_indexers/obj/Debug/net9.0/class_indexers.dll
+/home/joker/Documentos/códigos/estudos csharp/class_indexers/class_indexers/obj/Debug/net9.0/refint/class_indexers.dll
+/home/joker/Documentos/códigos/estudos csharp/class_indexers/class_indexers/obj/Debug/net9.0/class_indexers.pdb
+/home/joker/Documentos/códigos/estudos csharp/class_indexers/class_indexers/obj/Debug/net9.0/class_indexers.genruntimeconfig.cache
+/home/joker/Documentos/códigos/estudos csharp/class_indexers/class_indexers/obj/Debug/net9.0/ref/class_indexers.dll
