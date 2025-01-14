@@ -1,0 +1,14 @@
+/home/joker/Documentos/códigos/estudos csharp/interface/_interface/bin/Debug/net9.0/_interface
+/home/joker/Documentos/códigos/estudos csharp/interface/_interface/bin/Debug/net9.0/_interface.deps.json
+/home/joker/Documentos/códigos/estudos csharp/interface/_interface/bin/Debug/net9.0/_interface.runtimeconfig.json
+/home/joker/Documentos/códigos/estudos csharp/interface/_interface/bin/Debug/net9.0/_interface.dll
+/home/joker/Documentos/códigos/estudos csharp/interface/_interface/bin/Debug/net9.0/_interface.pdb
+/home/joker/Documentos/códigos/estudos csharp/interface/_interface/obj/Debug/net9.0/_interface.GeneratedMSBuildEditorConfig.editorconfig
+/home/joker/Documentos/códigos/estudos csharp/interface/_interface/obj/Debug/net9.0/_interface.AssemblyInfoInputs.cache
+/home/joker/Documentos/códigos/estudos csharp/interface/_interface/obj/Debug/net9.0/_interface.AssemblyInfo.cs
+/home/joker/Documentos/códigos/estudos csharp/interface/_interface/obj/Debug/net9.0/_interface.csproj.CoreCompileInputs.cache
+/home/joker/Documentos/códigos/estudos csharp/interface/_interface/obj/Debug/net9.0/_interface.dll
+/home/joker/Documentos/códigos/estudos csharp/interface/_interface/obj/Debug/net9.0/refint/_interface.dll
+/home/joker/Documentos/códigos/estudos csharp/interface/_interface/obj/Debug/net9.0/_interface.pdb
+/home/joker/Documentos/códigos/estudos csharp/interface/_interface/obj/Debug/net9.0/_interface.genruntimeconfig.cache
+/home/joker/Documentos/códigos/estudos csharp/interface/_interface/obj/Debug/net9.0/ref/_interface.dll
