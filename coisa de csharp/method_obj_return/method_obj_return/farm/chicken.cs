@@ -7,8 +7,8 @@ public class Chicken
     
     public Chicken(string name, int eggber)
     {
-        this._name = name;
-        this._eggber = eggber;
+        _name = name;
+        _eggber = eggber;
     }
 
     public Egg CreateEgg()
