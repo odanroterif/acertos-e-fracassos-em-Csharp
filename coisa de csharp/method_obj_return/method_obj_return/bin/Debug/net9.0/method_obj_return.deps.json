@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "method_obj_return/1.0.0": {
+        "runtime": {
+          "method_obj_return.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "method_obj_return/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

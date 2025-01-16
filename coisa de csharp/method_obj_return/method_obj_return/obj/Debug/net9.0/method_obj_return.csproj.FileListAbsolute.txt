@@ -1,0 +1,14 @@
+/home/joker/Documentos/códigos/estudos csharp/method_obj_return/method_obj_return/bin/Debug/net9.0/method_obj_return
+/home/joker/Documentos/códigos/estudos csharp/method_obj_return/method_obj_return/bin/Debug/net9.0/method_obj_return.deps.json
+/home/joker/Documentos/códigos/estudos csharp/method_obj_return/method_obj_return/bin/Debug/net9.0/method_obj_return.runtimeconfig.json
+/home/joker/Documentos/códigos/estudos csharp/method_obj_return/method_obj_return/bin/Debug/net9.0/method_obj_return.dll
+/home/joker/Documentos/códigos/estudos csharp/method_obj_return/method_obj_return/bin/Debug/net9.0/method_obj_return.pdb
+/home/joker/Documentos/códigos/estudos csharp/method_obj_return/method_obj_return/obj/Debug/net9.0/method_obj_return.GeneratedMSBuildEditorConfig.editorconfig
+/home/joker/Documentos/códigos/estudos csharp/method_obj_return/method_obj_return/obj/Debug/net9.0/method_obj_return.AssemblyInfoInputs.cache
+/home/joker/Documentos/códigos/estudos csharp/method_obj_return/method_obj_return/obj/Debug/net9.0/method_obj_return.AssemblyInfo.cs
+/home/joker/Documentos/códigos/estudos csharp/method_obj_return/method_obj_return/obj/Debug/net9.0/method_obj_return.csproj.CoreCompileInputs.cache
+/home/joker/Documentos/códigos/estudos csharp/method_obj_return/method_obj_return/obj/Debug/net9.0/method_obj_return.dll
+/home/joker/Documentos/códigos/estudos csharp/method_obj_return/method_obj_return/obj/Debug/net9.0/refint/method_obj_return.dll
+/home/joker/Documentos/códigos/estudos csharp/method_obj_return/method_obj_return/obj/Debug/net9.0/method_obj_return.pdb
+/home/joker/Documentos/códigos/estudos csharp/method_obj_return/method_obj_return/obj/Debug/net9.0/method_obj_return.genruntimeconfig.cache
+/home/joker/Documentos/códigos/estudos csharp/method_obj_return/method_obj_return/obj/Debug/net9.0/ref/method_obj_return.dll
