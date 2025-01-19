@@ -1,0 +1,14 @@
+/home/joker/Documentos/códigos/estudos csharp/recursion/recursion/bin/Debug/net9.0/recursion
+/home/joker/Documentos/códigos/estudos csharp/recursion/recursion/bin/Debug/net9.0/recursion.deps.json
+/home/joker/Documentos/códigos/estudos csharp/recursion/recursion/bin/Debug/net9.0/recursion.runtimeconfig.json
+/home/joker/Documentos/códigos/estudos csharp/recursion/recursion/bin/Debug/net9.0/recursion.dll
+/home/joker/Documentos/códigos/estudos csharp/recursion/recursion/bin/Debug/net9.0/recursion.pdb
+/home/joker/Documentos/códigos/estudos csharp/recursion/recursion/obj/Debug/net9.0/recursion.GeneratedMSBuildEditorConfig.editorconfig
+/home/joker/Documentos/códigos/estudos csharp/recursion/recursion/obj/Debug/net9.0/recursion.AssemblyInfoInputs.cache
+/home/joker/Documentos/códigos/estudos csharp/recursion/recursion/obj/Debug/net9.0/recursion.AssemblyInfo.cs
+/home/joker/Documentos/códigos/estudos csharp/recursion/recursion/obj/Debug/net9.0/recursion.csproj.CoreCompileInputs.cache
+/home/joker/Documentos/códigos/estudos csharp/recursion/recursion/obj/Debug/net9.0/recursion.dll
+/home/joker/Documentos/códigos/estudos csharp/recursion/recursion/obj/Debug/net9.0/refint/recursion.dll
+/home/joker/Documentos/códigos/estudos csharp/recursion/recursion/obj/Debug/net9.0/recursion.pdb
+/home/joker/Documentos/códigos/estudos csharp/recursion/recursion/obj/Debug/net9.0/recursion.genruntimeconfig.cache
+/home/joker/Documentos/códigos/estudos csharp/recursion/recursion/obj/Debug/net9.0/ref/recursion.dll
