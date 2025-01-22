@@ -1,0 +1,14 @@
+/home/joker/Documentos/códigos/estudos csharp/static_2/static_2/bin/Debug/net9.0/static_2
+/home/joker/Documentos/códigos/estudos csharp/static_2/static_2/bin/Debug/net9.0/static_2.deps.json
+/home/joker/Documentos/códigos/estudos csharp/static_2/static_2/bin/Debug/net9.0/static_2.runtimeconfig.json
+/home/joker/Documentos/códigos/estudos csharp/static_2/static_2/bin/Debug/net9.0/static_2.dll
+/home/joker/Documentos/códigos/estudos csharp/static_2/static_2/bin/Debug/net9.0/static_2.pdb
+/home/joker/Documentos/códigos/estudos csharp/static_2/static_2/obj/Debug/net9.0/static_2.GeneratedMSBuildEditorConfig.editorconfig
+/home/joker/Documentos/códigos/estudos csharp/static_2/static_2/obj/Debug/net9.0/static_2.AssemblyInfoInputs.cache
+/home/joker/Documentos/códigos/estudos csharp/static_2/static_2/obj/Debug/net9.0/static_2.AssemblyInfo.cs
+/home/joker/Documentos/códigos/estudos csharp/static_2/static_2/obj/Debug/net9.0/static_2.csproj.CoreCompileInputs.cache
+/home/joker/Documentos/códigos/estudos csharp/static_2/static_2/obj/Debug/net9.0/static_2.dll
+/home/joker/Documentos/códigos/estudos csharp/static_2/static_2/obj/Debug/net9.0/refint/static_2.dll
+/home/joker/Documentos/códigos/estudos csharp/static_2/static_2/obj/Debug/net9.0/static_2.pdb
+/home/joker/Documentos/códigos/estudos csharp/static_2/static_2/obj/Debug/net9.0/static_2.genruntimeconfig.cache
+/home/joker/Documentos/códigos/estudos csharp/static_2/static_2/obj/Debug/net9.0/ref/static_2.dll
