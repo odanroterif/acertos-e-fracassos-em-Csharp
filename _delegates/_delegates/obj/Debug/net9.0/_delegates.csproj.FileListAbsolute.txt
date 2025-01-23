@@ -1,0 +1,14 @@
+/home/joker/Documentos/códigos/estudos csharp/_delegates/_delegates/bin/Debug/net9.0/_delegates
+/home/joker/Documentos/códigos/estudos csharp/_delegates/_delegates/bin/Debug/net9.0/_delegates.deps.json
+/home/joker/Documentos/códigos/estudos csharp/_delegates/_delegates/bin/Debug/net9.0/_delegates.runtimeconfig.json
+/home/joker/Documentos/códigos/estudos csharp/_delegates/_delegates/bin/Debug/net9.0/_delegates.dll
+/home/joker/Documentos/códigos/estudos csharp/_delegates/_delegates/bin/Debug/net9.0/_delegates.pdb
+/home/joker/Documentos/códigos/estudos csharp/_delegates/_delegates/obj/Debug/net9.0/_delegates.GeneratedMSBuildEditorConfig.editorconfig
+/home/joker/Documentos/códigos/estudos csharp/_delegates/_delegates/obj/Debug/net9.0/_delegates.AssemblyInfoInputs.cache
+/home/joker/Documentos/códigos/estudos csharp/_delegates/_delegates/obj/Debug/net9.0/_delegates.AssemblyInfo.cs
+/home/joker/Documentos/códigos/estudos csharp/_delegates/_delegates/obj/Debug/net9.0/_delegates.csproj.CoreCompileInputs.cache
+/home/joker/Documentos/códigos/estudos csharp/_delegates/_delegates/obj/Debug/net9.0/_delegates.dll
+/home/joker/Documentos/códigos/estudos csharp/_delegates/_delegates/obj/Debug/net9.0/refint/_delegates.dll
+/home/joker/Documentos/códigos/estudos csharp/_delegates/_delegates/obj/Debug/net9.0/_delegates.pdb
+/home/joker/Documentos/códigos/estudos csharp/_delegates/_delegates/obj/Debug/net9.0/_delegates.genruntimeconfig.cache
+/home/joker/Documentos/códigos/estudos csharp/_delegates/_delegates/obj/Debug/net9.0/ref/_delegates.dll
