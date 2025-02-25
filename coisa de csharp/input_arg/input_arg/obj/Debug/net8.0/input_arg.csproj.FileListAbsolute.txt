@@ -1,0 +1,14 @@
+/home/joker/Documentos/codigos/estudos csharp/input_arg/input_arg/bin/Debug/net8.0/input_arg
+/home/joker/Documentos/codigos/estudos csharp/input_arg/input_arg/bin/Debug/net8.0/input_arg.deps.json
+/home/joker/Documentos/codigos/estudos csharp/input_arg/input_arg/bin/Debug/net8.0/input_arg.runtimeconfig.json
+/home/joker/Documentos/codigos/estudos csharp/input_arg/input_arg/bin/Debug/net8.0/input_arg.dll
+/home/joker/Documentos/codigos/estudos csharp/input_arg/input_arg/bin/Debug/net8.0/input_arg.pdb
+/home/joker/Documentos/codigos/estudos csharp/input_arg/input_arg/obj/Debug/net8.0/input_arg.GeneratedMSBuildEditorConfig.editorconfig
+/home/joker/Documentos/codigos/estudos csharp/input_arg/input_arg/obj/Debug/net8.0/input_arg.AssemblyInfoInputs.cache
+/home/joker/Documentos/codigos/estudos csharp/input_arg/input_arg/obj/Debug/net8.0/input_arg.AssemblyInfo.cs
+/home/joker/Documentos/codigos/estudos csharp/input_arg/input_arg/obj/Debug/net8.0/input_arg.csproj.CoreCompileInputs.cache
+/home/joker/Documentos/codigos/estudos csharp/input_arg/input_arg/obj/Debug/net8.0/input_arg.dll
+/home/joker/Documentos/codigos/estudos csharp/input_arg/input_arg/obj/Debug/net8.0/refint/input_arg.dll
+/home/joker/Documentos/codigos/estudos csharp/input_arg/input_arg/obj/Debug/net8.0/input_arg.pdb
+/home/joker/Documentos/codigos/estudos csharp/input_arg/input_arg/obj/Debug/net8.0/input_arg.genruntimeconfig.cache
+/home/joker/Documentos/codigos/estudos csharp/input_arg/input_arg/obj/Debug/net8.0/ref/input_arg.dll
