@@ -15,10 +15,11 @@ public class Program
         // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
         builder.Services.AddEndpointsApiExplorer();
         builder.Services.AddSwaggerGen();
-        
+
         var connectionString = builder.Configuration.GetConnectionString("Mysql");
-        
-        builder.Services.AddDbContext<AppDbContext>( options => options.UseMySql(connectionString, ServerVersion.AutoDetect(connectionString)));
+
+        builder.Services.AddDbContext<AppDbContext>(options =>
+            options.UseMySql(connectionString, ServerVersion.AutoDetect(connectionString)));
 
         var app = builder.Build();
 
@@ -34,6 +35,12 @@ public class Program
         app.UseAuthorization();
 
 
+        app.MapControllers();
+        app.UseCors();
+
+        app.Run();
+    }
+}
         app.MapControllers();
 
         app.Run();
