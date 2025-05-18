@@ -12,8 +12,10 @@ public class Person
     
     [Required]
     [Column("nome")]
+    [MaxLength(30)]
     public string Name { get; set; } = string.Empty;
     
     [Column("senha")]
+    [MaxLength(40)]
     public string? Password { get; set; }
 }
