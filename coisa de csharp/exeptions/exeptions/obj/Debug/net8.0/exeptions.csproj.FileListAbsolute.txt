@@ -1,0 +1,14 @@
+/home/joker/Documentos/codigos/estudos csharp/exeptions/exeptions/bin/Debug/net8.0/exeptions
+/home/joker/Documentos/codigos/estudos csharp/exeptions/exeptions/bin/Debug/net8.0/exeptions.deps.json
+/home/joker/Documentos/codigos/estudos csharp/exeptions/exeptions/bin/Debug/net8.0/exeptions.runtimeconfig.json
+/home/joker/Documentos/codigos/estudos csharp/exeptions/exeptions/bin/Debug/net8.0/exeptions.dll
+/home/joker/Documentos/codigos/estudos csharp/exeptions/exeptions/bin/Debug/net8.0/exeptions.pdb
+/home/joker/Documentos/codigos/estudos csharp/exeptions/exeptions/obj/Debug/net8.0/exeptions.GeneratedMSBuildEditorConfig.editorconfig
+/home/joker/Documentos/codigos/estudos csharp/exeptions/exeptions/obj/Debug/net8.0/exeptions.AssemblyInfoInputs.cache
+/home/joker/Documentos/codigos/estudos csharp/exeptions/exeptions/obj/Debug/net8.0/exeptions.AssemblyInfo.cs
+/home/joker/Documentos/codigos/estudos csharp/exeptions/exeptions/obj/Debug/net8.0/exeptions.csproj.CoreCompileInputs.cache
+/home/joker/Documentos/codigos/estudos csharp/exeptions/exeptions/obj/Debug/net8.0/exeptions.dll
+/home/joker/Documentos/codigos/estudos csharp/exeptions/exeptions/obj/Debug/net8.0/refint/exeptions.dll
+/home/joker/Documentos/codigos/estudos csharp/exeptions/exeptions/obj/Debug/net8.0/exeptions.pdb
+/home/joker/Documentos/codigos/estudos csharp/exeptions/exeptions/obj/Debug/net8.0/exeptions.genruntimeconfig.cache
+/home/joker/Documentos/codigos/estudos csharp/exeptions/exeptions/obj/Debug/net8.0/ref/exeptions.dll
