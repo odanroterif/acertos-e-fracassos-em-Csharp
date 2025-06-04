@@ -1,0 +1,14 @@
+/home/joker/Documentos/códigos/estudos csharp/_struct/_struct/bin/Debug/net9.0/_struct
+/home/joker/Documentos/códigos/estudos csharp/_struct/_struct/bin/Debug/net9.0/_struct.deps.json
+/home/joker/Documentos/códigos/estudos csharp/_struct/_struct/bin/Debug/net9.0/_struct.runtimeconfig.json
+/home/joker/Documentos/códigos/estudos csharp/_struct/_struct/bin/Debug/net9.0/_struct.dll
+/home/joker/Documentos/códigos/estudos csharp/_struct/_struct/bin/Debug/net9.0/_struct.pdb
+/home/joker/Documentos/códigos/estudos csharp/_struct/_struct/obj/Debug/net9.0/_struct.GeneratedMSBuildEditorConfig.editorconfig
+/home/joker/Documentos/códigos/estudos csharp/_struct/_struct/obj/Debug/net9.0/_struct.AssemblyInfoInputs.cache
+/home/joker/Documentos/códigos/estudos csharp/_struct/_struct/obj/Debug/net9.0/_struct.AssemblyInfo.cs
+/home/joker/Documentos/códigos/estudos csharp/_struct/_struct/obj/Debug/net9.0/_struct.csproj.CoreCompileInputs.cache
+/home/joker/Documentos/códigos/estudos csharp/_struct/_struct/obj/Debug/net9.0/_struct.dll
+/home/joker/Documentos/códigos/estudos csharp/_struct/_struct/obj/Debug/net9.0/refint/_struct.dll
+/home/joker/Documentos/códigos/estudos csharp/_struct/_struct/obj/Debug/net9.0/_struct.pdb
+/home/joker/Documentos/códigos/estudos csharp/_struct/_struct/obj/Debug/net9.0/_struct.genruntimeconfig.cache
+/home/joker/Documentos/códigos/estudos csharp/_struct/_struct/obj/Debug/net9.0/ref/_struct.dll

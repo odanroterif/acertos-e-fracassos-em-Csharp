@@ -1,0 +1,14 @@
+/home/joker/Documentos/codigos/estudos csharp/string_manipulation/string_manipulation/bin/Debug/net8.0/string_manipulation
+/home/joker/Documentos/codigos/estudos csharp/string_manipulation/string_manipulation/bin/Debug/net8.0/string_manipulation.deps.json
+/home/joker/Documentos/codigos/estudos csharp/string_manipulation/string_manipulation/bin/Debug/net8.0/string_manipulation.runtimeconfig.json
+/home/joker/Documentos/codigos/estudos csharp/string_manipulation/string_manipulation/bin/Debug/net8.0/string_manipulation.dll
+/home/joker/Documentos/codigos/estudos csharp/string_manipulation/string_manipulation/bin/Debug/net8.0/string_manipulation.pdb
+/home/joker/Documentos/codigos/estudos csharp/string_manipulation/string_manipulation/obj/Debug/net8.0/string_manipulation.GeneratedMSBuildEditorConfig.editorconfig
+/home/joker/Documentos/codigos/estudos csharp/string_manipulation/string_manipulation/obj/Debug/net8.0/string_manipulation.AssemblyInfoInputs.cache
+/home/joker/Documentos/codigos/estudos csharp/string_manipulation/string_manipulation/obj/Debug/net8.0/string_manipulation.AssemblyInfo.cs
+/home/joker/Documentos/codigos/estudos csharp/string_manipulation/string_manipulation/obj/Debug/net8.0/string_manipulation.csproj.CoreCompileInputs.cache
+/home/joker/Documentos/codigos/estudos csharp/string_manipulation/string_manipulation/obj/Debug/net8.0/string_manipulation.dll
+/home/joker/Documentos/codigos/estudos csharp/string_manipulation/string_manipulation/obj/Debug/net8.0/refint/string_manipulation.dll
+/home/joker/Documentos/codigos/estudos csharp/string_manipulation/string_manipulation/obj/Debug/net8.0/string_manipulation.pdb
+/home/joker/Documentos/codigos/estudos csharp/string_manipulation/string_manipulation/obj/Debug/net8.0/string_manipulation.genruntimeconfig.cache
+/home/joker/Documentos/codigos/estudos csharp/string_manipulation/string_manipulation/obj/Debug/net8.0/ref/string_manipulation.dll
