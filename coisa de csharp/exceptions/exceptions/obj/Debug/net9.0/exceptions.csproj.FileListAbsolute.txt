@@ -1,0 +1,14 @@
+/home/joker/Documentos/codigos/estudos csharp/exceptions/exceptions/bin/Debug/net9.0/exceptions
+/home/joker/Documentos/codigos/estudos csharp/exceptions/exceptions/bin/Debug/net9.0/exceptions.deps.json
+/home/joker/Documentos/codigos/estudos csharp/exceptions/exceptions/bin/Debug/net9.0/exceptions.runtimeconfig.json
+/home/joker/Documentos/codigos/estudos csharp/exceptions/exceptions/bin/Debug/net9.0/exceptions.dll
+/home/joker/Documentos/codigos/estudos csharp/exceptions/exceptions/bin/Debug/net9.0/exceptions.pdb
+/home/joker/Documentos/codigos/estudos csharp/exceptions/exceptions/obj/Debug/net9.0/exceptions.GeneratedMSBuildEditorConfig.editorconfig
+/home/joker/Documentos/codigos/estudos csharp/exceptions/exceptions/obj/Debug/net9.0/exceptions.AssemblyInfoInputs.cache
+/home/joker/Documentos/codigos/estudos csharp/exceptions/exceptions/obj/Debug/net9.0/exceptions.AssemblyInfo.cs
+/home/joker/Documentos/codigos/estudos csharp/exceptions/exceptions/obj/Debug/net9.0/exceptions.csproj.CoreCompileInputs.cache
+/home/joker/Documentos/codigos/estudos csharp/exceptions/exceptions/obj/Debug/net9.0/exceptions.dll
+/home/joker/Documentos/codigos/estudos csharp/exceptions/exceptions/obj/Debug/net9.0/refint/exceptions.dll
+/home/joker/Documentos/codigos/estudos csharp/exceptions/exceptions/obj/Debug/net9.0/exceptions.pdb
+/home/joker/Documentos/codigos/estudos csharp/exceptions/exceptions/obj/Debug/net9.0/exceptions.genruntimeconfig.cache
+/home/joker/Documentos/codigos/estudos csharp/exceptions/exceptions/obj/Debug/net9.0/ref/exceptions.dll

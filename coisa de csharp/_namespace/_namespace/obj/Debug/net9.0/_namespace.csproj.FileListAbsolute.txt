@@ -1,0 +1,14 @@
+/home/joker/Documentos/codigos/estudos csharp/_namespace/_namespace/bin/Debug/net9.0/_namespace
+/home/joker/Documentos/codigos/estudos csharp/_namespace/_namespace/bin/Debug/net9.0/_namespace.deps.json
+/home/joker/Documentos/codigos/estudos csharp/_namespace/_namespace/bin/Debug/net9.0/_namespace.runtimeconfig.json
+/home/joker/Documentos/codigos/estudos csharp/_namespace/_namespace/bin/Debug/net9.0/_namespace.dll
+/home/joker/Documentos/codigos/estudos csharp/_namespace/_namespace/bin/Debug/net9.0/_namespace.pdb
+/home/joker/Documentos/codigos/estudos csharp/_namespace/_namespace/obj/Debug/net9.0/_namespace.GeneratedMSBuildEditorConfig.editorconfig
+/home/joker/Documentos/codigos/estudos csharp/_namespace/_namespace/obj/Debug/net9.0/_namespace.AssemblyInfoInputs.cache
+/home/joker/Documentos/codigos/estudos csharp/_namespace/_namespace/obj/Debug/net9.0/_namespace.AssemblyInfo.cs
+/home/joker/Documentos/codigos/estudos csharp/_namespace/_namespace/obj/Debug/net9.0/_namespace.csproj.CoreCompileInputs.cache
+/home/joker/Documentos/codigos/estudos csharp/_namespace/_namespace/obj/Debug/net9.0/_namespace.dll
+/home/joker/Documentos/codigos/estudos csharp/_namespace/_namespace/obj/Debug/net9.0/refint/_namespace.dll
+/home/joker/Documentos/codigos/estudos csharp/_namespace/_namespace/obj/Debug/net9.0/_namespace.pdb
+/home/joker/Documentos/codigos/estudos csharp/_namespace/_namespace/obj/Debug/net9.0/_namespace.genruntimeconfig.cache
+/home/joker/Documentos/codigos/estudos csharp/_namespace/_namespace/obj/Debug/net9.0/ref/_namespace.dll
